@@ -1,0 +1,3 @@
+"","diff","n_sim","null_diff","p.value","type","direction"
+"1",0.129783200456069,10000,0,0.0341,"one-tailed","and > gyn"
+"2",0.255605016567127,10000,0.0013,0.0013,"one-tailed","pet > sep"
