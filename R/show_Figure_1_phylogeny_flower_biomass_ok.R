@@ -4,6 +4,7 @@
 library(sensiPhy)
 library(phytools)
 library(tidyverse)
+library(cowplot)
 
 ### Start-----------------------------------------------------------------------
 rm(list = ls())
@@ -38,6 +39,13 @@ fig1A <-
   ylab("Number of Species") + 
   tema(base_size = 24);fig1A
 
+## Add flower iiluestrations----------------------------------------------------
+fig1A2 <-  ggdraw() +
+  draw_plot(fig1A) +
+  draw_image(image = "images/flower_ilustrations/flower.png", 
+             x = .3, 
+             y = .32, 
+             scale = .3)
 ### FLower biomass variation----
 range(dall$tot)
 
@@ -47,7 +55,7 @@ range(dall$tot)[2]/range(dall$tot)[1]
 ### salvar:
 ggsave("outputs/figures/raw/Fig_1A.pdf", 
        height = 6, width = 6, units = "in",
-       plot = fig1A) 
+       plot = fig1A2) 
 
 ### Fig1B Flower maleness----
 dall$and.gyn <- log10(dall$and/dall$gyn)
