@@ -1,5 +1,4 @@
-# ms_global_flower_allometry
-
+# Paterno_et_al_Global_flower_allometry
 
 __Data and Code for the article:__  
 
@@ -26,6 +25,13 @@ and Carlos Roberto Fonseca_
     * Scripts (.R) to generate all figures and tables used in the manuscript and in the supporting information.
     
 ***
+
 When using the __data available__ in this repository, please cite the original publication.  
 
 Contact paternogbc@gmail.com for any further information.  
+
+***
+
+__Dataset DOI__
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3746453.svg)](https://doi.org/10.5281/zenodo.3746453)
