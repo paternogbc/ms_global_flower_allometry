@@ -190,11 +190,12 @@ plot_phylolm <- function(y,x, data,estimates, subtitle, labx, laby,
                          c.ponto = "steelblue",
                          c.line  = "tomato",
                          alp     = .5,
-                         s.ponto = 2.5,
-                         s.line  = 1,
+                         s.ponto = 2,
+                         s.line  = .8,
                          xa,
                          ya,
                          anota.size = 4.5,
+                         axis_size  = 18,
                          intx,
                          inty,
                          limx = NULL,
@@ -212,7 +213,7 @@ plot_phylolm <- function(y,x, data,estimates, subtitle, labx, laby,
   alr    <- round(10^al, digits = 3)
   ber    <- round(be, digits = 3)
   pv     <- round(es$p_b1, digits = 5) 
-  if (pv < 0.000001) {pv <- "0.000001"}
+  if (pv < 0.00001) {pv <- "0.00001"}
   r2     <- round(es$R2, 2)
   
   ### Plot labels
@@ -253,7 +254,8 @@ plot_phylolm <- function(y,x, data,estimates, subtitle, labx, laby,
     annotate("text", x = xa, y = ya, label = lpv, parse = T,
              vjust = 5.5, hjust = -0.03, fontface = 2,
              color = gray(.2), size = anota.size) +
-    tema(base_size = bsize) 
+    tema(base_size = bsize) +
+    theme(axis.title = element_text(size = axis_size))
   
   return(g1)
 }
