@@ -35,3 +35,7 @@ Contact paternogbc@gmail.com for any further information.
 __Dataset DOI__
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3746453.svg)](https://doi.org/10.5281/zenodo.3746453)
+
+__Open Science Framework__
+
+See the manuscript [OSF Project](https://osf.io./swhd9/) for supporting information.
