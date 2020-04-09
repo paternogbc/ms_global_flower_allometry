@@ -38,4 +38,4 @@ __Dataset DOI__
 
 __Open Science Framework__
 
-See the manuscript [OSF Project](https://osf.io./swhd9/) for supporting information.
+See the manuscript [OSF Project](https://osf.io/swhd9/) for supporting information.
