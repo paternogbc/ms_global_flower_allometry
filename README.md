@@ -3,10 +3,8 @@
 _Gustavo Brant Paterno, Carina Lima Silveira, Johannes Kollmann, Mark Westoby,
 and Carlos Roberto Fonseca_  
 
-***
-
 ![](images/flower_ilustrations/flower_partition.png)
-
+    
 ***
 
 ## Content of the repository
