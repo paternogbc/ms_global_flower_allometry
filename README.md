@@ -3,12 +3,9 @@
 _Gustavo Brant Paterno, Carina Lima Silveira, Johannes Kollmann, Mark Westoby,
 and Carlos Roberto Fonseca_  
 
-![](images/flower_ilustrations/flower.png){width=100px} 
-![](images/flower_ilustrations/male.png){width=100px} 
-![](images/flower_ilustrations/female.png){width=100px}
-![](images/flower_ilustrations/petals.png){width=100px}
-![](images/flower_ilustrations/sepals.png){width=100px}
+***
 
+![](images/flower_ilustrations/flower_partition.png)
 
 ***
 
