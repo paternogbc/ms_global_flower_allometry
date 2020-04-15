@@ -1,12 +1,15 @@
-# Paterno_et_al_Global_flower_allometry
+# The maleness of larger angiosperm flowers
 
-__Data and Code for the article:__  
-
-__The maleness of larger angiosperm flowers__
-  
 _Gustavo Brant Paterno, Carina Lima Silveira, Johannes Kollmann, Mark Westoby,
 and Carlos Roberto Fonseca_  
-  
+
+![](images/flower_ilustrations/flower.png){width=100px} 
+![](images/flower_ilustrations/male.png){width=100px} 
+![](images/flower_ilustrations/female.png){width=100px}
+![](images/flower_ilustrations/petals.png){width=100px}
+![](images/flower_ilustrations/sepals.png){width=100px}
+
+
 ***
 
 ## Content of the repository
