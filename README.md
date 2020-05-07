@@ -7,6 +7,12 @@ and Carlos Roberto Fonseca_
     
 ***
 
+**Journal**: [PNAS](https://doi.org/10.1073/pnas.1910631117)
+
+**DOI**: [https://doi.org/10.1073/pnas.1910631117](https://doi.org/10.1073/pnas.1910631117)
+
+**Supporting information**: [link](https://www.pnas.org/content/pnas/suppl/2020/05/03/1910631117.DCSupplemental/pnas.1910631117.sapp.pdf)
+
 ## Content of the repository
 
 1. __Data__: the folder `data` contains  
@@ -24,9 +30,13 @@ and Carlos Roberto Fonseca_
     
 ***
 
-When using the __data available__ in this repository, please cite the original publication.  
+When using the __data available__ in this repository, please cite the original publication and the dataset.  
 
 Contact paternogbc@gmail.com for any further information.  
+
+**Citation:**
+
+> Paterno, G. B., Silveira, C. L., Kollmann, J., Westoby, M., & Fonseca, C. R. (2020). The maleness of larger angiosperm flowers. Proceedings of the National Academy of Sciences, 201910631. https://doi.org/10.1073/pnas.1910631117
 
 ***
 
