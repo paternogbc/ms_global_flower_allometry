@@ -36,13 +36,14 @@ Contact paternogbc@gmail.com for any further information.
 
 **Citation:**
 
-> Paterno, G. B., Silveira, C. L., Kollmann, J., Westoby, M., & Fonseca, C. R. (2020). The maleness of larger angiosperm flowers. Proceedings of the National Academy of Sciences, 201910631. https://doi.org/10.1073/pnas.1910631117
-
+> **Paterno, G. B.**, Silveira, C. L., Kollmann, J., Westoby, M., & Fonseca, C. R. (2020). The maleness of larger angiosperm flowers. Proceedings of the National Academy of Sciences, 117(20), 10921–10926. https://doi.org/10.1073/pnas.1910631117
 ***
 
 __Dataset DOI__
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3746453.svg)](https://doi.org/10.5281/zenodo.3746453)
+
+Gustavo Brant Paterno, Carina Lima Silveira, Johannes Kollmann, Mark Westoby, & Carlos Roberto Fonseca. (2020). Data and code for: The maleness of larger angiosperm flowers (v1.0.0) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.3746453
 
 __Open Science Framework__
 
